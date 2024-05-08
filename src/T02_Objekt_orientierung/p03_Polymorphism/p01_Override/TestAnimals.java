@@ -1,4 +1,4 @@
-package T02_Objekt_orientierung.Polymorphism.Override;
+package T02_Objekt_orientierung.p03_Polymorphism.p01_Override;
 
 public class TestAnimals {
     public static void main(String[] args) {

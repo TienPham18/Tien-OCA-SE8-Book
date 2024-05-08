@@ -1,4 +1,4 @@
-package T02_Objekt_orientierung.Polymorphism.Overloads;
+package T02_Objekt_orientierung.p03_Polymorphism.p02_Overloads;
 
 public class TestAdder {
     public static void main(String[] args) {

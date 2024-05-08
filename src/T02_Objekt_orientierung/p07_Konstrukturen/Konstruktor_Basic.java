@@ -1,4 +1,4 @@
-package T02_Objekt_orientierung.Konstrukturen;
+package T02_Objekt_orientierung.p07_Konstrukturen;
 
 // zwei schlüssel Punkte über Konstruktoren soll man daran erinnen
 // 1. er hat keine "return" typ (sogar "void")

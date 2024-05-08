@@ -1,4 +1,4 @@
-package T02_Objekt_orientierung.Polymorphism.OverloadUndOverride;
+package T02_Objekt_orientierung.p03_Polymorphism.p03_OverloadUndOverride;
 
 public class Animal {
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public class Animal {
     }
 
     public void eat() {
-        System.out.println("Generic Animal Eating Generically");
+        System.out.println("Animal Eating Generically");
     }
 }
 
