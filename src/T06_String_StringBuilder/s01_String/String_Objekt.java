@@ -1,4 +1,4 @@
-package T06_String;
+package T06_String_StringBuilder.s01_String;
 
 public class String_Objekt {
     public static void main(String[] args) {
