@@ -11,6 +11,9 @@ public class StringBuilderMethod {
         insertOffset();
         reverse();
         toString1();
+
+        StringBuilder sb = new StringBuilder(5);
+        System.out.println("sb = " + sb);
     }
 
     private static void append() {
