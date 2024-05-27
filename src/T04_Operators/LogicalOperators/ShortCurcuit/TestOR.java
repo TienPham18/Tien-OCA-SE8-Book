@@ -1,6 +1,6 @@
 package T04_Operators.LogicalOperators.ShortCurcuit;
 
-class TestOR {
+public class TestOR {
     public static void main(String[] args) {
         if ((isItSmall(3)) || (isItSmall(7))) {
             System.out.println("Result of first if-statement is true");
@@ -13,9 +13,11 @@ class TestOR {
     public static boolean isItSmall(int i) {
         if (i < 5) {
             System.out.println("i < 5");
+            System.out.println("return true");
             return true;
         } else {
             System.out.println("i >= 5");
+            System.out.println("return false");
             return false;
         }
     }
