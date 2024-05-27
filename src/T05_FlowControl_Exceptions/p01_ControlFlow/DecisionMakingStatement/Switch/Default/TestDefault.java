@@ -36,5 +36,9 @@ public class TestDefault {
             case 4: System.out.println("4");
         }
 
+        int a = 2;
+        // an empty "switch statement" is a valid construct
+        switch (a) {}
+
     }
 }
