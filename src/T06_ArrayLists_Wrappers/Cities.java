@@ -1,4 +1,4 @@
-package T06_ArrayLists;
+package T06_ArrayLists_Wrappers;
 
 import java.util.ArrayList;
 import java.util.List;
